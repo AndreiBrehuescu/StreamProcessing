@@ -1,0 +1,156 @@
+How many times each activity has appeared for each day over the monitoring period. 
+
+Day : 369
+Breakfast : 1 times 
+Grooming : 2 times 
+Toileting : 3 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 4 times 
+Snack : 1 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 370
+Breakfast : 1 times 
+Grooming : 3 times 
+Toileting : 4 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 6 times 
+Snack : 1 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 371
+Breakfast : 1 times 
+Grooming : 2 times 
+Toileting : 6 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 8 times 
+Snack : 2 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 373
+Breakfast : 1 times 
+Toileting : 2 times 
+Grooming : 3 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 6 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 374
+Breakfast : 1 times 
+Toileting : 3 times 
+Grooming : 4 times 
+Sleeping : 1 times 
+Spare_Time/TV : 7 times 
+Snack : 1 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 375
+Breakfast : 1 times 
+Grooming : 3 times 
+Toileting : 2 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 4 times 
+Showering : 1 times 
+
+
+Day : 376
+Breakfast : 1 times 
+Grooming : 2 times 
+Toileting : 4 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 6 times 
+Snack : 2 times 
+Showering : 1 times 
+
+
+Day : 377
+Breakfast : 1 times 
+Toileting : 5 times 
+Grooming : 6 times 
+Sleeping : 1 times 
+Leaving : 2 times 
+Spare_Time/TV : 7 times 
+Snack : 1 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 378
+Breakfast : 1 times 
+Grooming : 4 times 
+Toileting : 3 times 
+Sleeping : 1 times 
+Spare_Time/TV : 5 times 
+Snack : 1 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 379
+Breakfast : 1 times 
+Toileting : 6 times 
+Grooming : 5 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 8 times 
+Snack : 2 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
+Day : 380
+Breakfast : 1 times 
+Toileting : 1 times 
+Grooming : 5 times 
+Sleeping : 1 times 
+Leaving : 1 times 
+Spare_Time/TV : 4 times 
+Showering : 1 times 
+
+
+Day : 381
+Breakfast : 1 times 
+Toileting : 2 times 
+Grooming : 5 times 
+Sleeping : 1 times 
+Leaving : 2 times 
+Spare_Time/TV : 6 times 
+Showering : 1 times 
+
+
+Day : 382
+Breakfast : 1 times 
+Toileting : 1 times 
+Grooming : 4 times 
+Sleeping : 1 times 
+Leaving : 2 times 
+Spare_Time/TV : 3 times 
+Showering : 1 times 
+
+
+Day : 383
+Breakfast : 1 times 
+Toileting : 2 times 
+Grooming : 3 times 
+Sleeping : 1 times 
+Spare_Time/TV : 3 times 
+Showering : 1 times 
+Lunch : 1 times 
+
+
